@@ -1,0 +1,17 @@
+.main {
+    background: rgb(7, 15, 102);
+    background: radial-gradient(
+        circle,
+        #070f66 25%,
+        #240be9 64%,
+        #008acd 95%
+    );
+}
+
+.title {
+    font-size: 4rem;
+    text-align: center;
+    color: yellow;
+    text-shadow: 5px 5px #070f66;
+    padding-block: 2rem;
+}
